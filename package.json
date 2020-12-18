@@ -1,0 +1,27 @@
+{
+  "name": "beanbot-js",
+  "version": "1.0.0",
+  "description": "Discord Bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bman7842/BeanBot-JS.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "Brandon Egger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bman7842/BeanBot-JS/issues"
+  },
+  "homepage": "https://github.com/bman7842/BeanBot-JS#readme"
+}
